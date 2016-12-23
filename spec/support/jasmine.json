@@ -1,0 +1,11 @@
+{
+  "spec_dir": "C:/Users/dylan.foster/Documents/esgi/4ADW/S1/TestsUnitaires/101/src/js/",
+  "spec_files": [
+    "__tests__/**/*.spec.js"
+  ],
+  "helpers": [
+    "__helpers__/**/*.js"
+  ],
+  "stopSpecOnExpectationFailure": false,
+  "random": false
+}
