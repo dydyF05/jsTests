@@ -14,14 +14,12 @@
     "jasmine": "^2.5.2"
   },
   "scripts": {
-    "watch": "node_modules/babel-cli/bin/babel.js public/js/ --watch --out-dir C:/Users/dylan.foster/Documents/esgi/4ADW/S1/TestsUnitaires/101/build/public/"
   },
   "paths": {
     "es6": "node_modules/requirejs-babel/es6",
-    "babel": "node_modules/requirejs-babel/babel-5.8.34.min",
-    "user": "build/public/classes/user.class.js"
+    "babel": "node_modules/requirejs-babel/babel-5.8.34.min"
   },
-  "test": "echo ntm fdp",
+  "test": "testing with jasmine & expect",
   "author": "dydys",
   "license": "ISC"
 }
