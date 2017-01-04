@@ -1,5 +1,5 @@
 ##################### GUIDE #######################
-1.	#### DEPENDANCES ####
+1.	#### DEPENDANCIES ####
 	1.0 Se placer à la racine du projet
 	1.1 NodeJS && npm
 		--> https://docs.npmjs.com/getting-started/installing-node
